@@ -50,7 +50,7 @@ Your library data is stored locally in a JSON file (`library.json`), making it e
 
 ## Screenshots
 
-[Add screenshots of your application here]
+[Add screenshots of your application here](website.PNG)
 
 ## License
 
